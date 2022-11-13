@@ -1,0 +1,14 @@
+#profilepic {
+    border-radius: 50%;
+    width: 20em;
+    height: auto;
+}
+
+h1 {
+    color: #385170;
+}
+
+.italicize-bold {
+    font-style: italic;
+    font-weight: bold;
+}
